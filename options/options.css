@@ -1,0 +1,42 @@
+body {
+	background-color: tomato;
+	color: blanchedalmond;
+}
+
+h1 {
+	margin: 10px;
+
+	text-align: center;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+
+#time-option {
+	width: 300px;
+	padding: 10px;
+
+	outline: none;
+	border: none;
+	border-radius: 4px;
+}
+
+#save-btn {
+	margin-top: 10px;
+	padding: 10px;
+
+	display: block;
+	cursor: pointer;
+
+	font-weight: bold;
+	background-color: blanchedalmond;
+	color: tomato;
+
+	outline: none;
+	border: none;
+	border-radius: 4px;
+}
